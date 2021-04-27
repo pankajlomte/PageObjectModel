@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+
+<suite name="eCommerce Application Test Automation Test Suite">
+
+	<test name="eCommerce Test Cases">
+		<classes>
+			<class name="com.ecm.qa.testcases.Test1"></class>
+		</classes>
+	</test>
+</suite>
